@@ -1,0 +1,17 @@
+
+.galerie-principale img{
+    height: 150px;
+}
+.galerie-principale {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.colonne-texte img {
+    height: 200px;
+}
+
+#fondatrice {
+    background-color: #74bfdd;
+}
+
